@@ -45,9 +45,9 @@ For students who are interested in joining our research group as a Master’s st
 
 # 📝 Publications
 
-- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **TAAS 2024**. **\[CCF-B\]**
+- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **TAAS 2024. \[CCF-B\]**
 
-- Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 20024. \[CCF-A\]**
+- Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024. \[CCF-A\]**
 
 
 - **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院1区\]**
@@ -60,8 +60,7 @@ For students who are interested in joining our research group as a Master’s st
 
 - **Shengye Pang**, Guobing Zou, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). **IJWSR 2019**.
 
-- Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCom 2018. \[CCF-C\]**
-
+- Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCOM 2018. \[CCF-C\]**
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
