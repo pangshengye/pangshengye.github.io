@@ -63,6 +63,16 @@ For students who are interested in joining our research group as a Master’s st
 - Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCOM 2018. \[CCF-C\]**
 
 
+
+
+
+# 🛠️ Academic Projects
+
+- 国家重点研发计划项目-跨界服务融合理论与关键技术（2017YFB1400600），项目经费：6716万元，2017.12-2021.05，核心参与                                                     
+- 国家重点研发计划项目-大规模复杂数字服务网络关键技术研究与应用（2022YFF0902700），项目经费：3300万元，2022.12-2025.05，核心参与
+- 国家杰出青年科学基金项目-服务计算（61825205），项目经费：400万元，2019.01-2024.01，核心参与
+- 浙江省重大科技专项项目-基于区块链的多跨场景应用服务融合技术及应用（2022C01145），项目经费：1500万元，2022.01-2024.12，核心参与
+
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
@@ -72,6 +82,10 @@ For students who are interested in joining our research group as a Master’s st
 - 四十九届日内瓦国际发明展览会金奖(2022)
 - 二十五届中国发明展览会金奖(2021)
 - 浙江大学优秀博士研究生新生奖学金(2019)
+
+
+
+
 
 <span class='anchor' id='educations'></span>
 
