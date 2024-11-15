@@ -27,7 +27,7 @@ For students who are interested in joining our research group as a Master’s st
 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=17367643&style=0007&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                
+<img src="https://hitwebcounter.com/counter/counter.php?page=17367662&style=0001&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                                          
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
