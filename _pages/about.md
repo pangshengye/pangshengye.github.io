@@ -26,7 +26,6 @@ For students who are interested in joining our research group as a Master’s st
 <span class='anchor' id='news'></span>
 
 <!-- hitwebcounter Code START -->
-<img src="https://hitwebcounter.com/counter/counter.php?page=17367662&style=0001&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />                  
 
 <img src="https://hitwebcounter.com/counter/counter.php?page=17367727&style=0006&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />
 
