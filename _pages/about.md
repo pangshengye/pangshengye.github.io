@@ -25,6 +25,10 @@ For students who are interested in joining our research group as a Master’s st
 
 <span class='anchor' id='news'></span>
 
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=17367643&style=0007&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                
+
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
 - *2024.09*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**.
