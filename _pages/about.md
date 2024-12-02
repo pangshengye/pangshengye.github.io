@@ -51,6 +51,8 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 📝 Publications
 
+## Selected Papers
+
 - **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **TAAS 2024. \[CCF-B\]**
 
 - Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024. \[CCF-A\]**
@@ -68,7 +70,24 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCOM 2018. \[CCF-C\]**
 
+## Selected Books/Chapters
 
+- **Shengye Pang**, Bangpeng Zheng, Jianwei Yin, and Shuiguang Deng (2023). Crossover Service Infrastructure: Service Network. In Convergence in Crossover Service, pp. 109-145. Singapore: Springer Nature Singapore. ISSN: 1995-6819.
+- Jianwei Yin, Bangpeng Zheng, and **Shengye Pang**, (2023). Crossover Service: A Brief Overview. Convergence in Crossover Service, pp. 1-28. Singapore: Springer Nature Singapore. ISSN: 1995-6819.
+- 《服务计算十讲》 (2023)， ISSN: 978-7-111-71842-0， 出版单位： 机械工业出版社.
+
+## Selected Patents
+
+- Method for predicting quality of service in service network environment. U.S. Patent No. 18/019455.
+
+- Hierarchical routing method oriented to cross-boundary service network. U.S. Patent No. 11943133.
+
+- Service caching method for a cross-border service network. U.S. Patent No. 11743359.
+
+- 服务网络环境下的服务质量预测方法. CN113364621B.
+- 服务网络环境下的参考服务流程及其构建方法和应用方法. CN113344526B.
+- 一种面向服务网络的体系架构. CN112929203B.
+- 一种基于分布式生成树的跨界服务网络架构. CN112468345B.
 
 <span class='anchor' id='projects'></span>
 
