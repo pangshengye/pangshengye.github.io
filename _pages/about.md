@@ -32,6 +32,8 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 
 # 🔥 News
+
+- *2025.01*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **TSC**.
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
 - *2024.09*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**.
 - *2024.08*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **TSC**.
@@ -45,7 +47,6 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - *2023.05*: &nbsp;🎉🎉 A project has been awarded the **First Prize** at the 2023 CCF Software Service Innovation Competition.
 - *2023.05*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ICWS 2023**.
 - *2023.03*: &nbsp;🎉🎉 A book titled **"Convergence in Crossover Service"** has been published by Springer.
-- *2022.03*: &nbsp;🎉🎉 An invention has been awarded the **Gold Medal** at the 49th Geneva International Invention Exhibition.
 
 <span class='anchor' id='publications'></span>
 
@@ -53,10 +54,11 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 ## Selected Papers
 
-- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **TAAS 2024. \[CCF-B\]**
+- **Shengye Pang**, Xinkui Zhao, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction. **TSC 2025. \[CCF-A\]**
 
 - Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024. \[CCF-A\]**
 
+- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **TAAS 2024. \[CCF-B\]**
 
 - **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院1区\]**
 
