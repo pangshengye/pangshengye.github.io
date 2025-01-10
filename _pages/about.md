@@ -33,19 +33,19 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
-- *2025.01*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **TSC**.
+- *2025.01*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE TSC**.
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
 - *2024.09*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**.
-- *2024.08*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **TSC**.
-- *2024.07*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **ACMMM 2024**.
-- *2024.06*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **TAAS**.
+- *2024.08*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **IEEE TSC**.
+- *2024.07*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **ACM MM 2024**.
+- *2024.06*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ACM TAAS**.
 - *2024.05*: &nbsp;🎉🎉 A co-authored demo paper has been accepted by **WWW 2024**.
 - *2024.05*: &nbsp;🎉🎉 A first-author U.S. patent has been granted.
 - *2024.04*: &nbsp;🎉🎉 A co-authored white paper has been published by the 6G-ANA organization.
 - *2024.03*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **TST**.
-- *2024.02*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **TOSN**.
+- *2024.02*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ACM TOSN**.
 - *2023.05*: &nbsp;🎉🎉 A project has been awarded the **First Prize** at the 2023 CCF Software Service Innovation Competition.
-- *2023.05*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ICWS 2023**.
+- *2023.05*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE ICWS2023**.
 - *2023.03*: &nbsp;🎉🎉 A book titled **"Convergence in Crossover Service"** has been published by Springer.
 
 <span class='anchor' id='publications'></span>
@@ -54,17 +54,17 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 ## Selected Papers
 
-- **Shengye Pang**, Xinkui Zhao, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction. **TSC 2025. \[CCF-A\]**
+- **Shengye Pang**, Xinkui Zhao, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction. **IEEE TSC 2025. \[CCF-A\]**
 
-- Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024. \[CCF-A\]**
+- Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **IEEETSC 2024. \[CCF-A\]**
 
-- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **TAAS 2024. \[CCF-B\]**
+- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **ACM TAAS 2024. \[CCF-B\]**
 
 - **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院1区\]**
 
-- **Shengye Pang**, Jiayin Luo, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **TOSN 2024. \[CCF-B\]**
+- **Shengye Pang**, Jiayin Luo, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **ACM TOSN 2024. \[CCF-B\]**
 
--  **Shengye Pang**, Xinkui Zhao, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **ICWS 2023. \[CCF-B\]**
+-  **Shengye Pang**, Xinkui Zhao, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **IEEE ICWS 2023. \[CCF-B\]**
 
 - **Shengye Pang**, Jianwei Yin, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[Best Student Paper\]**
 
