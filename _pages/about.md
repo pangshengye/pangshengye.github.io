@@ -33,6 +33,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
+- *2025.01*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **WWW 2025**.
 - *2025.01*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE TSC**.
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
 - *2024.09*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**.
