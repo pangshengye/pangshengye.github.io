@@ -33,6 +33,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
+- *2025.05*: &nbsp;🎉🎉 A co-authored group standard <工业场景用智能交互引擎功能要求> has been published.
 - *2025.01*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **WWW 2025**.
 - *2025.01*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE TSC**.
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
@@ -42,7 +43,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - *2024.06*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ACM TAAS**.
 - *2024.05*: &nbsp;🎉🎉 A co-authored demo paper has been accepted by **WWW 2024**.
 - *2024.05*: &nbsp;🎉🎉 A first-author U.S. patent has been granted.
-- *2024.04*: &nbsp;🎉🎉 A co-authored white paper has been published by the 6G-ANA organization.
+- *2024.04*: &nbsp;🎉🎉 A co-authored white paper <无线数据知识图谱驱动的6G智能运维新技术> has been published by the **6G-ANA organization**.
 - *2024.03*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **TST**.
 - *2024.02*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ACM TOSN**.
 - *2023.05*: &nbsp;🎉🎉 A project has been awarded the **First Prize** at the 2023 CCF Software Service Innovation Competition.
