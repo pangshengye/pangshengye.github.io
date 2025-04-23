@@ -93,6 +93,12 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - 一种面向服务网络的体系架构. CN112929203B.
 - 一种基于分布式生成树的跨界服务网络架构. CN112468345B.
 
+## Standards and White papers
+
+- 庞盛业等. [《工业场景用智能交互引擎功能要求》](https://www.cssn.net.cn/cssn/productDetail/f41389ca1ddceb18aa80c2cb4820aa8c), 中关村团体标准, 2025. 
+- 庞盛业等. [《无线数据知识图谱驱动的6G智能运维新技术白皮书》](https://www.6g-ana.com/upload/file/20240514/6385128755246030556122314.pdf). 6GANA, 2024. 
+
+
 <span class='anchor' id='projects'></span>
 
 # 🛠️ Academic Projects
