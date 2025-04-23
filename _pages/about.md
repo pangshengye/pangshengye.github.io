@@ -95,7 +95,8 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 ## Standards and White papers
 
-- [《工业场景用智能交互引擎功能要求》](https://www.cssn.net.cn/cssn/productDetail/f41389ca1ddceb18aa80c2cb4820aa8c), 中关村团体标准, 2025. 
+- Intelligent Interaction EngineCore, IEEE Standard, Project initiation phase, 2025.
+-  [《工业场景用智能交互引擎功能要求》](https://www.cssn.net.cn/cssn/productDetail/f41389ca1ddceb18aa80c2cb4820aa8c), 中关村团体标准, 2025. 
 - [《无线数据知识图谱驱动的6G智能运维新技术》](https://www.6g-ana.com/upload/file/20240514/6385128755246030556122314.pdf). 6GANA 白皮书, 2024. 
 
 
