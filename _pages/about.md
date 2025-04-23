@@ -43,7 +43,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - *2024.06*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ACM TAAS**.
 - *2024.05*: &nbsp;🎉🎉 A co-authored demo paper has been accepted by **WWW 2024**.
 - *2024.05*: &nbsp;🎉🎉 A first-author U.S. patent has been granted.
-- *2024.04*: &nbsp;🎉🎉 A co-authored white paper <无线数据知识图谱驱动的6G智能运维新技术> has been published by **6G-ANA**.
+- *2024.04*: &nbsp;🎉🎉 A co-authored white paper <无线数据知识图谱驱动的6G智能运维新技术> has been published by 6G-ANA.
 - *2024.03*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **TST**.
 - *2024.02*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ACM TOSN**.
 - *2023.05*: &nbsp;🎉🎉 A project has been awarded the **First Prize** at the 2023 CCF Software Service Innovation Competition.
