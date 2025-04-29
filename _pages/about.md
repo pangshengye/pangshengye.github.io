@@ -31,9 +31,10 @@ For students who are interested in joining our research group as a Master’s st
 You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?page=17367770&style=0006&nbdigits=5&type=ip&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />  to my homepage. Thanks for your attention!
 
 
-# 🔥 News
+# 🔥 News、
 
-- *2025.05*: &nbsp;🎉🎉 A co-authored group standard <工业场景用智能交互引擎功能要求> has been published.
+- *2025.04*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICIC 2025**.
+- *2025.04*: &nbsp;🎉🎉 A co-authored group standard <工业场景用智能交互引擎功能要求> has been published.
 - *2025.01*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **WWW 2025**.
 - *2025.01*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE TSC**.
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
