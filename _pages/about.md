@@ -33,6 +33,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
+- *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICWS 2025**.
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **IPM 2025**.
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICIC 2025**.
 - *2025.04*: &nbsp;🎉🎉 Served as the secretary of the **IEEE Standard Project P3023**.
