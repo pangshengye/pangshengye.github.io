@@ -23,7 +23,7 @@ In 2024, I obtained my PhD from the School of Computer Science and Technology at
 
 For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me at pangsy \[AT\] shu [dot] edu [dot] cn.
 
- **The quotas for Master's degree admissions for 2025 have been filled. (2025级硕士生名额已用完)**
+ **The quotas for Master's degree admissions for 2025 have been filled. (2025级硕士生名额已用完，欢迎26级同学联系)**
 
 <span class='anchor' id='news'></span>
 
