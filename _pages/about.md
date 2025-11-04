@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an Assistant Professor at the School of Computer Engineering and Science at Shanghai University, affiliated with the <a href='https://scdm-shu.github.io'> SCDM </a> research team. 
 
-In 2024, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href='https://mypage.zju.edu.cn/0001038/'> Jianwei Yin </a> and co-supervised by Professor <a href='https://person.zju.edu.cn/shuiguang/'> Shuiguang Deng </a> and Researcher <a href='https://person.zju.edu.cn/zjuzxk'> Xinkui Zhao </a>. My primary research focuses on service computing and edge-cloud computing, with a particular emphasis on pricing, transaction, and optimization scheduling of web services in service network environments. 
+In 2024, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href='https://mypage.zju.edu.cn/0001038/'> Jianwei Yin </a> and co-supervised by Professor <a href='https://person.zju.edu.cn/shuiguang/'> Shuiguang Deng </a> and Researcher <a href='https://person.zju.edu.cn/zjuzxk'> Xinkui Zhao </a>. My primary research focuses on service computing, edge-cloud computing and LLM, with a particular emphasis on pricing, transaction, and optimization scheduling of web services in service network environments. 
 
 For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me at pangsy \[AT\] shu [dot] edu [dot] cn.
 
@@ -35,6 +35,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
+- *2025.11*: &nbsp;🎉🎉 Received the **Outstanding Doctoral Dissertation Award** from the Shanghai Association of Information Sciences.
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICWS 2025**.
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **IPM**.
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICIC 2025**.
@@ -119,6 +120,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🎖 Honors and Awards
 
+- 上海市信息学会优秀博士学位论文奖(2025)
 - CCF中国服务计算创新大赛一等奖(2023)
 - 浙江大学CCNT实验室优秀研究生(2023)
 - 四十九届日内瓦国际发明展览会金奖(2022)
