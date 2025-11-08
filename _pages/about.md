@@ -64,7 +64,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 ## Selected Papers
 
-- **Shengye Pang**, Xinkui Zhao, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction. **IEEE TSC 2025. \[CCF-A\]**
+- **Shengye Pang**, Xinkui Zhao, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). **IEEE TSC 2025. \[CCF-A\]**
 
 - Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **IEEE TSC 2024. \[CCF-A\]**
 
