@@ -64,25 +64,25 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 ## Selected Papers (First-author & Corresponding Author)
 
-- **Shengye Pang**, Xinkui Zhao, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). **IEEE TSC 2025. \[CCF-A\]**
+- **Shengye Pang**, Xinkui Zhao*, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). **IEEE TSC 2025. \[CCF-A\]**
 
 - Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **IEEE TSC 2024. \[CCF-A\]**
   
-- Guobing Zou, Mengjia Yang, Song Yang, __Shengye Pang*__, Sen Niu, Yanglan Gan, and Bofeng Zhang. [POI-Based Edge Service Deployment With Topology-Aware Optimization](https://ieeexplore.ieee.org/abstract/document/11169669). **IEEE ICWS 2025. \[CCF-B\]**
+- Guobing Zou, Mengjia Yang, Song Yang, __Shengye Pang*__, Sen Niu, Yanglan Gan*, and Bofeng Zhang. [POI-Based Edge Service Deployment With Topology-Aware Optimization](https://ieeexplore.ieee.org/abstract/document/11169669). **IEEE ICWS 2025. \[CCF-B\]**
 
-- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **ACM TAAS 2024. \[CCF-B\]**
+- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **ACM TAAS 2024. \[CCF-B\]**
 
 - **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院1区\]**
 
-- **Shengye Pang**, Jiayin Luo, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **ACM TOSN 2024. \[CCF-B\]**
+- **Shengye Pang**, Jiayin Luo, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **ACM TOSN 2024. \[CCF-B\]**
 
--  **Shengye Pang**, Xinkui Zhao, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **IEEE ICWS 2023. \[CCF-B\]**
+-  **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **IEEE ICWS 2023. \[CCF-B\]**
 
 -  Guobing Zou, Yile Wang, Song Yang, __Shengye Pang*__, Yanglan Gan, and Bofeng Zhang. [Mobility-Aware Edge Service Scheduling with Request Heterogeneity and Server Load Balancing](https://link.springer.com/chapter/10.1007/978-981-95-0017-8_40). **ICIC 2025. \[CCF-B\]**.
 
-- **Shengye Pang**, Jianwei Yin, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[Best Student Paper\]**
+- **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[Best Student Paper\]**
 
-- **Shengye Pang**, Guobing Zou, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). **IJWSR 2019**.
+- **Shengye Pang**, Guobing Zou*, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). **IJWSR 2019**.
 
 - Guobing Zou, __Shengye Pang*__, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCOM 2018. \[CCF-C\]**
 
