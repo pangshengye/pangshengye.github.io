@@ -40,7 +40,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICWS 2025**.
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **IPM**.
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICIC 2025**.
-- *2025.04*: &nbsp;🎉🎉 Served as the secretary of the **IEEE Standard Project P3023**.
+- *2025.04*: &nbsp;🎉🎉 Participation in drafting **IEEE Standard Project P3023**.
 - *2025.04*: &nbsp;🎉🎉 A co-authored group standard <工业场景用智能交互引擎功能要求> has been published.
 - *2025.01*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **WWW 2025**.
 - *2025.01*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE TSC**.
