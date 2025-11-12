@@ -62,7 +62,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 📝 Publications
 
-## Selected Papers (First-author & Corresponding Author)
+## Selected Papers (First-author & Corresponding-author)
 
 - **Shengye Pang**, Xinkui Zhao*, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). **IEEE TSC 2025. \[CCF-A\]**
 
