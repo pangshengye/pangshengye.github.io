@@ -62,7 +62,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 📝 Publications
 
-## Selected Papers
+## Selected Papers (First-author & Corresponding Author)
 
 - **Shengye Pang**, Xinkui Zhao, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). **IEEE TSC 2025. \[CCF-A\]**
 
@@ -84,7 +84,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - **Shengye Pang**, Guobing Zou, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). **IJWSR 2019**.
 
-- Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCOM 2018. \[CCF-C\]**
+- Guobing Zou, __Shengye Pang*__, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCOM 2018. \[CCF-C\]**
 
 ## Selected Books/Chapters
 
