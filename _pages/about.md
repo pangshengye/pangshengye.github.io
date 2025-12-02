@@ -55,11 +55,11 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - *2024.04*: &nbsp;🎉🎉 A co-authored white paper <无线数据知识图谱驱动的6G智能运维新技术> has been published by 6G-ANA.
 - *2024.03*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **TST**.
 - *2024.02*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ACM TOSN**.
-<!--
-- *2023.05*: &nbsp;🎉🎉 A project has been awarded the **First Prize** at the 2023 CCF Software Service Innovation Competition.
+
+<!--\- *2023.05*: &nbsp;🎉🎉 A project has been awarded the **First Prize** at the 2023 CCF Software Service Innovation Competition.-->
 - *2023.05*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE ICWS2023**.
 - *2023.03*: &nbsp;🎉🎉 A book titled **"Convergence in Crossover Service"** has been published by Springer.
--->
+
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
