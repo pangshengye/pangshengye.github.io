@@ -35,9 +35,10 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
+- *2025.12*: &nbsp;🎉🎉 获2025年上海市计算机学会协同与信息服务专委会**青年新星奖**。
 - *2025.12*: &nbsp;🎉🎉 A co-authored workshop paper has been awarded the **Best Paper Award** by **ICSOC 2025**.
 - *2025.11*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **AAAI 2025**.
-- *2025.11*: &nbsp;🎉🎉 Received the **Outstanding Doctoral Dissertation Award** from the Shanghai Association of Information Sciences.
+- *2025.11*: &nbsp;🎉🎉 获2025年上海市信息学会**优秀学位论文奖**.
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICWS 2025**.
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **IPM**.
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICIC 2025**.
@@ -74,13 +75,13 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **ACM TAAS 2024. \[CCF-B\]**
 
-- **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院1区\]**
+- **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院2区\]**
 
 - **Shengye Pang**, Jiayin Luo, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **ACM TOSN 2024. \[CCF-B\]**
 
 -  **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **IEEE ICWS 2023. \[CCF-B\]**
 
--  Guobing Zou, Yile Wang, Song Yang, __Shengye Pang*__, Yanglan Gan, and Bofeng Zhang. [Mobility-Aware Edge Service Scheduling with Request Heterogeneity and Server Load Balancing](https://link.springer.com/chapter/10.1007/978-981-95-0017-8_40). **ICIC 2025. \[CCF-B\]**.
+-  Guobing Zou, Yile Wang, Song Yang, __Shengye Pang*__, Yanglan Gan, and Bofeng Zhang. [Mobility-Aware Edge Service Scheduling with Request Heterogeneity and Server Load Balancing](https://link.springer.com/chapter/10.1007/978-981-95-0017-8_40). **ICIC 2025. \[CCF-C\]**.
 
 - **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[Best Student Paper\]**
 
