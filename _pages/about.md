@@ -40,7 +40,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - *2025.12*: &nbsp;🎉🎉 A co-authored workshop paper has been awarded the **Best Paper Award** by **ICSOC 2025**.
 - *2025.11*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **AAAI 2025**.
 - *2025.11*: &nbsp;🎉🎉 获2025年上海市信息学会**优秀学位论文奖**.
-- *2025.08*: &nbsp;🎉🎉 Elected as an Executive Committee Member of the CCF Technical Committee on  ServiceComputing
+- *2025.08*: &nbsp;🎉🎉 当选计算机学会服务计算专委会执行委员。
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICWS 2025**.
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **IPM**.
 - *2025.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICIC 2025**.
