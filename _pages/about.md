@@ -35,6 +35,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
+- *2026.01*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **ICASSP 2026**.
 - *2025.12*: &nbsp;🎉🎉 获2025年上海市计算机学会协同与信息服务专委会**青年新星奖**。
 - *2025.12*: &nbsp;🎉🎉 A co-authored workshop paper has been awarded the **Best Paper Award** by **ICSOC 2025**.
 - *2025.11*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **AAAI 2025**.
@@ -82,9 +83,10 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 -  **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **IEEE ICWS 2023. \[CCF-B\]**
 
+- **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[CCF-C, Best Student Paper\]**
+
 -  Guobing Zou, Yile Wang, Song Yang, __Shengye Pang*__, Yanglan Gan, and Bofeng Zhang. [Mobility-Aware Edge Service Scheduling with Request Heterogeneity and Server Load Balancing](https://link.springer.com/chapter/10.1007/978-981-95-0017-8_40). **ICIC 2025. \[CCF-C\]**.
 
-- **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[Best Student Paper\]**
 
 - **Shengye Pang**, Guobing Zou*, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). **IJWSR 2019**.
 
