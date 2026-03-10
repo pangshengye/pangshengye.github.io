@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an Assistant Professor at the School of Computer Engineering and Science at Shanghai University, affiliated with the <a href='https://scdm-shu.github.io'> SCDM </a> research team. 
 
-In 2024, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href='https://mypage.zju.edu.cn/0001038/'> Jianwei Yin </a> and co-supervised by Professor <a href='https://person.zju.edu.cn/shuiguang/'> Shuiguang Deng </a> and Researcher <a href='https://person.zju.edu.cn/zjuzxk'> Xinkui Zhao </a>. My primary research focuses on service computing, edge-cloud computing and LLM, with a particular emphasis on pricing, transaction, and optimization scheduling of web services in service network environments. 
+In 2024, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href='https://mypage.zju.edu.cn/0001038/'> Jianwei Yin </a> and co-supervised by Professor <a href='https://person.zju.edu.cn/shuiguang/'> Shuiguang Deng </a> and Researcher <a href='https://person.zju.edu.cn/zjuzxk'> Xinkui Zhao </a>. My research focuses on advancing Large Language Models (LLMs) , specifically investigating memory mechanisms in multi-agent systems and optimizing data evaluation for model training, with applications in domains such as service computing.
 
 For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me at pangsy \[AT\] shu [dot] edu [dot] cn.
 
