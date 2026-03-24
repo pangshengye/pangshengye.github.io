@@ -79,7 +79,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **ACM TAAS 2024. \[CCF-B\]**
 
-- **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院2区\]**
+- **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院1区\]**
 
 - **Shengye Pang**, Jiayin Luo, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **ACM TOSN 2024. \[CCF-B\]**
 
