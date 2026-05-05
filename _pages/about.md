@@ -35,6 +35,9 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉🎉 A first-author regular regular paper has been accepted by **IJCAI 2026**
+- *2026.05*: &nbsp;🎉🎉 A corresponding-author regular regular paper has been accepted by **ICIC 2026 Oral**.
+- *2026.05*: &nbsp;🎉🎉 A corresponding-author regular regular paper has been accepted by **ICSS 2026**.
 - *2026.01*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **ICASSP 2026**.
 - *2026.01*: &nbsp;🎉🎉 A corresponding-author regular regular paper has been accepted by **JCC**.
 - *2025.12*: &nbsp;🎉🎉 获2025年上海市计算机学会协同与信息服务专委会**青年新星奖**。
