@@ -1,4 +1,4 @@
-permalink: /
+permalink:pangshengye.github.io
 title: ""
 excerpt: ""
 author_profile: true
