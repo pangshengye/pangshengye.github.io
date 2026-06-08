@@ -83,6 +83,8 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - **Shengye Pang**, Xiangyu Ji, Jungang Yang, Song Yang, Guobing Zou. [Mask-Guided Hybrid Triggers for Robust Clean-Label Backdoor Attacks](https://ieeexplore.ieee.org/abstract/document/10857412). **IJCAI 2026. \[CCF-A\]**
 
+- Song Yang, Guobing Zou*, Shengxiang Hu, **Shengye Pang\***, Yanglan Gan, Bofeng Zhang, and Yixin Chen. LMSR: LLM-enhanced Multi-perspective Service Feature Learning for Web API Recommendation. **IEEE TSC 2026. \[CCF-A\]**
+
 - Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **IEEE TSC 2024. \[CCF-A\]**
   
 - Guobing Zou, Mengjia Yang, Song Yang, **Shengye Pang\***, Sen Niu, Yanglan Gan*, and Bofeng Zhang. [POI-Based Edge Service Deployment With Topology-Aware Optimization](https://ieeexplore.ieee.org/abstract/document/11169669). **IEEE ICWS 2025. \[CCF-B\]**
