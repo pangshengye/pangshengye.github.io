@@ -81,23 +81,23 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). IEEE Transactions on Services Computing, 2025. **\[CCF-A类期刊\]**
 
-- ![IJCAI](https://img.shields.io/badge/-IJCAI%202026-003399?style=flat-square) **Shengye Pang**, Xiangyu Ji, Jungang Yang, Song Yang, Guobing Zou. [Mask-Guided Hybrid Triggers for Robust Clean-Label Backdoor Attacks](https://ieeexplore.ieee.org/abstract/document/10857412). International Joint Conference on Artificial Intelligence, 2026. **\[CCF-B类会议\]**
+- ![IJCAI](https://img.shields.io/badge/-IJCAI-003399?style=flat-square) **Shengye Pang**, Xiangyu Ji, Jungang Yang, Song Yang, Guobing Zou. [Mask-Guided Hybrid Triggers for Robust Clean-Label Backdoor Attacks](https://ieeexplore.ieee.org/abstract/document/10857412). International Joint Conference on Artificial Intelligence, 2026. **\[CCF-B类会议\]**
 
 - ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Song Yang, Guobing Zou*, Shengxiang Hu, **Shengye Pang\***, Yanglan Gan, Bofeng Zhang, and Yixin Chen. LMSR: LLM-enhanced Multi-perspective Service Feature Learning for Web API Recommendation. IEEE Transactions on Services Computing, 2026. **\[CCF-A类期刊\]**
 
 - ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). IEEE Transactions on Services Computing, 2024. **\[CCF-A类期刊\]**
-  
-- ![IEEE ICWS 2023](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) Guobing Zou, Mengjia Yang, Song Yang, **Shengye Pang\***, Sen Niu, Yanglan Gan*, and Bofeng Zhang. [POI-Based Edge Service Deployment With Topology-Aware Optimization](https://ieeexplore.ieee.org/abstract/document/11169669). IEEE International Conference on Web Services, 2023. **\[CCF-B类会议\]**
 
-- ![ACM TAAS](https://img.shields.io/badge/-ACM%20TAAS-003399?style=flat-square) **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **ACM TAAS 2024. \[CCF-B\]**
+- ![ACM TAAS](https://img.shields.io/badge/-ACM%20TAAS-003399?style=flat-square) **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). ACM Transactions on Autonomous and Adaptive Systems, 2025. **\[CCF-B类期刊\]**
 
-- ![TST](https://img.shields.io/badge/-TST-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024. \[中科院1区(2024)\]**
+- ![TST](https://img.shields.io/badge/-TST-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). Tsinghua Science and Technology, 2024. **\[中科院一区期刊(2024)\]**
 
-- ![ACM TOSN](https://img.shields.io/badge/-ACM%20TOSN-003399?style=flat-square) **Shengye Pang**, Jiayin Luo, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **ACM TOSN 2024. \[CCF-B\]**
+- ![ACM TOSN](https://img.shields.io/badge/-ACM%20TOSN-003399?style=flat-square) **Shengye Pang**, Jiayin Luo, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). ACM Transactions on Sensor Networks, 2024. **\[CCF-B类期刊\]**
+
+- ![IEEE ICWS](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) Guobing Zou, Mengjia Yang, Song Yang, **Shengye Pang\***, Sen Niu, Yanglan Gan*, and Bofeng Zhang. [POI-Based Edge Service Deployment With Topology-Aware Optimization](https://ieeexplore.ieee.org/abstract/document/11169669). IEEE International Conference on Web Services, 2025. **\[CCF-B类会议\]**
 
 -  ![IEEE ICWS](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **IEEE ICWS 2023. \[CCF-B\]**
 
-- ![ICSS](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[CCF-C, Best Student Paper\]**
+- ![ICSS](https://img.shields.io/badge/-ICSS-003399?style=flat-square) **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). International Conference on Service Science, 2020. **\[CCF-C类会议, Best Student Paper\]**
 
 -  Guobing Zou, Yile Wang, Song Yang, __Shengye Pang*__, Yanglan Gan, and Bofeng Zhang. [Mobility-Aware Edge Service Scheduling with Request Heterogeneity and Server Load Balancing](https://link.springer.com/chapter/10.1007/978-981-95-0017-8_40). **ICIC 2025. \[CCF-C\]**.
 
