@@ -102,9 +102,9 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - ![ICIC](https://img.shields.io/badge/-ICIC-003399?style=flat-square) Guobing Zou, Yile Wang, Song Yang, __Shengye Pang*__, Yanglan Gan, and Bofeng Zhang. [Mobility-Aware Edge Service Scheduling with Request Heterogeneity and Server Load Balancing](https://link.springer.com/chapter/10.1007/978-981-95-0017-8_40). International Conference on Intelligent Computing, 2025. **\[CCF-C类会议\]**.
 
 
-- ![IJWSR](https://img.shields.io/badge/-IJWSR-003399?style=flat-square) **Shengye Pang**, Guobing Zou*, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). International Journal of Web Services Research, 2019. **SCI期刊**.
+- ![IJWSR](https://img.shields.io/badge/-IJWSR-003399?style=flat-square) **Shengye Pang**, Guobing Zou*, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). International Journal of Web Services Research, 2019.  **\[SCI期刊\]**.
 
-- ![CollaborateCOM](https://img.shields.io/badge/-CollaborateCOM-003399?style=flat-square) Guobing Zou, __Shengye Pang*__, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCOM 2018. \[CCF-C\]**
+- ![CollaborateCOM](https://img.shields.io/badge/-CollaborateCOM-003399?style=flat-square) Guobing Zou, __Shengye Pang*__, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). International Conference on Collaborative Computing: Networking, Applications and Worksharing, 2018. **\[CCF-C类会议\]**.
 
 
 ## Selected Books/Chapters
