@@ -83,11 +83,11 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - ![IJCAI](https://img.shields.io/badge/-IJCAI%202026-003399?style=flat-square) **Shengye Pang**, Xiangyu Ji, Jungang Yang, Song Yang, Guobing Zou. [Mask-Guided Hybrid Triggers for Robust Clean-Label Backdoor Attacks](https://ieeexplore.ieee.org/abstract/document/10857412). International Joint Conference on Artificial Intelligence, 2026. **\[CCF-B类会议\]**
 
-- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Song Yang, Guobing Zou*, Shengxiang Hu, **Shengye Pang\***, Yanglan Gan, Bofeng Zhang, and Yixin Chen. LMSR: LLM-enhanced Multi-perspective Service Feature Learning for Web API Recommendation. **IEEE TSC 2026. \[CCF-A\]**
+- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Song Yang, Guobing Zou*, Shengxiang Hu, **Shengye Pang\***, Yanglan Gan, Bofeng Zhang, and Yixin Chen. LMSR: LLM-enhanced Multi-perspective Service Feature Learning for Web API Recommendation. IEEE Transactions on Services Computing, 2026. **\[CCF-A类期刊\]**
 
-- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **IEEE TSC 2024. \[CCF-A\]**
+- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). IEEE Transactions on Services Computing, 2024. **\[CCF-A类期刊\]**
   
-- ![IEEE ICWS](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) Guobing Zou, Mengjia Yang, Song Yang, **Shengye Pang\***, Sen Niu, Yanglan Gan*, and Bofeng Zhang. [POI-Based Edge Service Deployment With Topology-Aware Optimization](https://ieeexplore.ieee.org/abstract/document/11169669). **IEEE ICWS 2025. \[CCF-B\]**
+- ![IEEE ICWS 2023](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) Guobing Zou, Mengjia Yang, Song Yang, **Shengye Pang\***, Sen Niu, Yanglan Gan*, and Bofeng Zhang. [POI-Based Edge Service Deployment With Topology-Aware Optimization](https://ieeexplore.ieee.org/abstract/document/11169669). IEEE International Conference on Web Services, 2023. **\[CCF-B类会议\]**
 
 - ![ACM TAAS](https://img.shields.io/badge/-ACM%20TAAS-003399?style=flat-square) **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **ACM TAAS 2024. \[CCF-B\]**
 
