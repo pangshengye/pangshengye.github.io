@@ -79,7 +79,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 
 
-- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). **IEEE TSC 2025. \[CCF-A\]**
+- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). IEEE Transactions on Services Computing, 2025. **\[CCF-A类期刊\]**
 
 - ![IJCAI](https://img.shields.io/badge/-IJCAI-003399?style=flat-square) **Shengye Pang**, Xiangyu Ji, Jungang Yang, Song Yang, Guobing Zou. [Mask-Guided Hybrid Triggers for Robust Clean-Label Backdoor Attacks](https://ieeexplore.ieee.org/abstract/document/10857412). **IJCAI 2026. \[CCF-A\]**
 
@@ -97,8 +97,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 -  ![IEEE ICWS](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **IEEE ICWS 2023. \[CCF-B\]**
 
-<!-- 
-- **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[CCF-C, Best Student Paper\]**
+- ![ICSS](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020. \[CCF-C, Best Student Paper\]**
 
 -  Guobing Zou, Yile Wang, Song Yang, __Shengye Pang*__, Yanglan Gan, and Bofeng Zhang. [Mobility-Aware Edge Service Scheduling with Request Heterogeneity and Server Load Balancing](https://link.springer.com/chapter/10.1007/978-981-95-0017-8_40). **ICIC 2025. \[CCF-C\]**.
 
@@ -106,7 +105,6 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - **Shengye Pang**, Guobing Zou*, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). **IJWSR 2019**.
 
 - Guobing Zou, __Shengye Pang*__, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCOM 2018. \[CCF-C\]**
--->
 
 
 ## Selected Books/Chapters
