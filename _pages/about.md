@@ -104,7 +104,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - ![IJWSR](https://img.shields.io/badge/-IJWSR-003399?style=flat-square) **Shengye Pang**, Guobing Zou*, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). International Journal of Web Services Research, 2019.  **\[SCI期刊\]**.
 
-- ![CollaborateCOM](https://img.shields.io/badge/-CollaborateCOM-003399?style=flat-square) Guobing Zou, __Shengye Pang*__, Pengwei Wang, et. al. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). International Conference on Collaborative Computing: Networking, Applications and Worksharing, 2018. **\[CCF-C类会议\]**.
+- ![CollaborateCOM](https://img.shields.io/badge/-CollaborateCOM-003399?style=flat-square) Guobing Zou, __Shengye Pang*__, et. al. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). International Conference on Collaborative Computing: Networking, Applications and Worksharing, 2018. **\[CCF-C类会议\]**.
 
 
 ## Selected Books/Chapters
