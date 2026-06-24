@@ -79,6 +79,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 ## Selected Papers (First-author & Corresponding-author)
 
 
+- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Yihang Zhang, Song Yang, Yixin Chen, Yanglan Gan, Shuiguang Deng, and Guobing Zou* . [Leveraging Co-occurrence Bias in Web API Recommendation via Causality-Inspired Context-Adjusted Graph Learning](). IEEE Transactions on Services Computing, 2026. **\[CCF-A类期刊\]**
 
 - ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). IEEE Transactions on Services Computing, 2025. **\[CCF-A类期刊\]**
 
