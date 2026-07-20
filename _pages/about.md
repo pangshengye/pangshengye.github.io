@@ -38,7 +38,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - *2026.06*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE TSC**.
 - *2026.06*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **IEEE TSC**.
-- *2026.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **IEEE SSE 2026**.
+- *2026.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **IEEE SSE 2026 (Best Paper Award)**.
 - *2026.05*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IJCAI 2026**
 - *2026.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICIC 2026 Oral**.
 - *2026.05*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ICSS 2026**.
