@@ -79,13 +79,13 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 ## Selected Papers (First-author & Corresponding-author)
 
 
-- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Yihang Zhang, Song Yang, Yixin Chen, Yanglan Gan, Shuiguang Deng, and Guobing Zou* . [Leveraging Co-occurrence Bias in Web API Recommendation via Causality-Inspired Context-Adjusted Graph Learning](). IEEE Transactions on Services Computing, 2026. **\[CCF-A类期刊\]**
+- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Yihang Zhang, Song Yang, Yixin Chen, Yanglan Gan, Shuiguang Deng, and Guobing Zou* . [Leveraging Co-occurrence Bias in Web API Recommendation via Causality-Inspired Context-Adjusted Graph Learning](https://ieeexplore.ieee.org/abstract/document/11592683). IEEE Transactions on Services Computing, 2026. **\[CCF-A类期刊\]**
 
 - ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). IEEE Transactions on Services Computing, 2025. **\[CCF-A类期刊\]**
 
 - ![IJCAI](https://img.shields.io/badge/-IJCAI-003399?style=flat-square) **Shengye Pang**, Xiangyu Ji, Jungang Yang, Song Yang, Guobing Zou. [Mask-Guided Hybrid Triggers for Robust Clean-Label Backdoor Attacks](). International Joint Conference on Artificial Intelligence, 2026. **\[CCF-A类会议\]**
 
-- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Song Yang, Guobing Zou*, Shengxiang Hu, **Shengye Pang\***, Yanglan Gan, Bofeng Zhang, and Yixin Chen. LMSR: LLM-enhanced Multi-perspective Service Feature Learning for Web API Recommendation. IEEE Transactions on Services Computing, 2026. **\[CCF-A类期刊\]**
+- ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Song Yang, Guobing Zou*, Shengxiang Hu, **Shengye Pang\***, Yanglan Gan, Bofeng Zhang, and Yixin Chen. [LMSR: LLM-enhanced Multi-perspective Service Feature Learning for Web API Recommendation.](https://ieeexplore.ieee.org/abstract/document/11553454) IEEE Transactions on Services Computing, 2026. **\[CCF-A类期刊\]**
 
 - ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). IEEE Transactions on Services Computing, 2024. **\[CCF-A类期刊\]**
 
