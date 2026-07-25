@@ -99,7 +99,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 -  ![IEEE ICWS](https://img.shields.io/badge/-IEEE%20ICWS-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). IEEE International Conference on Web Services, 2023. **\[CCF-B类会议\]**
 
--  ![IEEE SSE](https://img.shields.io/badge/-IEEE%20SSE-003399?style=flat-square) Guobing Zou, Fei Zhao, Shengxiang Hu, Song Yang, **Shengye Pang\***, Yanglan Gan*, Bofeng Zhang. [ST-DGL: Spatio-Temporal Dynamic Graph Learning for Mobile Edge QoS Prediction.]() The IEEE International Conference on Software Services Engineering, Sydney, Australia, 2026. **\[CCF-C类会议, Best Paper\]**
+-  ![IEEE SSE](https://img.shields.io/badge/-IEEE%20SSE-003399?style=flat-square) Guobing Zou, Fei Zhao, Shengxiang Hu, Song Yang, **Shengye Pang\***, Yanglan Gan*, Bofeng Zhang. [ST-DGL: Spatio-Temporal Dynamic Graph Learning for Mobile Edge QoS Prediction.]() IEEE International Conference on Software Services Engineering, 2026. **\[CCF-C类会议, Best Paper\]**
 
 - ![ICSS](https://img.shields.io/badge/-ICSS-003399?style=flat-square) **Shengye Pang**, Jianwei Yin*, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). International Conference on Service Science, 2020. **\[CCF-C类会议, Best Student Paper\]**
 
