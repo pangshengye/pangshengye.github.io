@@ -92,7 +92,9 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 - ![ACM TAAS](https://img.shields.io/badge/-ACM%20TAAS-003399?style=flat-square) **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). ACM Transactions on Autonomous and Adaptive Systems, 2025. **\[CCF-B类期刊\]**
 
-- ![TST](https://img.shields.io/badge/-TST-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). Tsinghua Science and Technology, 2024. **\[中科院一区期刊(2024)\]**
+- ![TST](https://img.shields.io/badge/-TST-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). IEEE Internet of Things Journal, 2026. **\[中科院一区期刊(2024)\]**
+
+- - ![IEEE IOTJ](https://img.shields.io/badge/-IEEE%20IOTJ-003399?style=flat-square) Guobing Zou, Shuyi Yu, Song Yang, **Shengye Pang\***, Yanglan Gan, and Bofeng Zhang. [Spatio-Temporal Edge Data Caching under Dynamic QoS Expectations and Fluctuating Server Loads]( ). Tsinghua Science and Technology, 2024. **\[中科院一区期刊(2024)\]**
 
 - ![ACM TOSN](https://img.shields.io/badge/-ACM%20TOSN-003399?style=flat-square) **Shengye Pang**, Jiayin Luo, Xinkui Zhao*, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). ACM Transactions on Sensor Networks, 2024. **\[CCF-B类期刊\]**
 
