@@ -80,7 +80,6 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 ## Selected Papers (First-author & Corresponding-author)
 
-
 - ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Yihang Zhang, Song Yang, Yixin Chen, Yanglan Gan, Shuiguang Deng, and Guobing Zou* . [Leveraging Co-occurrence Bias in Web API Recommendation via Causality-Inspired Context-Adjusted Graph Learning](https://ieeexplore.ieee.org/abstract/document/11592683). IEEE Transactions on Services Computing, 2026. **\[CCF-A类期刊\]**
 
 - ![IEEE TSC](https://img.shields.io/badge/-IEEE%20TSC-003399?style=flat-square) **Shengye Pang**, Xinkui Zhao*, Shuyi Yu, Jintao Chen, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://ieeexplore.ieee.org/abstract/document/10857412). IEEE Transactions on Services Computing, 2025. **\[CCF-A类期刊\]**
@@ -145,7 +144,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🛠️ Academic Projects
 
-
+- 国家自然基金青年项目C类-面向复杂智算任务的算网服务协同供给机制研究（62602403），项目经费：30万元，2026.09-2029.09，项目负责人
 - 国家科技重大专项-海量多源异构材料数据质量分级与全生命周期质量评价技术（2025ZD0620100），项目经费：4900万元，2025.07-2028.06，项目骨干                                                     
 - 国家重点研发计划项目-跨界服务融合理论与关键技术（2017YFB1400600），项目经费：6716万元，2017.12-2021.05，项目骨干                                                     
 - 国家重点研发计划项目-大规模复杂数字服务网络关键技术研究与应用（2022YFF0902700），项目经费：3300万元，2022.12-2025.05，项目骨干
