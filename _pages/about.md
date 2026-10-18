@@ -36,6 +36,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 
+- *2026.10*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **ACM TKDD**.
 - *2026.08*: &nbsp;🎉🎉 获批国家自然基金青年C类项目.
 - *2026.08*: &nbsp;🎉🎉 A corresponding-author regular paper has been accepted by **IEEE IOTJ**.
 - *2026.06*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **IEEE TSC**.
